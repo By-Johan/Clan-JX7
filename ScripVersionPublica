@@ -86,8 +86,8 @@ local function safeCall(func, ...)
 end
 
 -- UI Window
-local window = library:AddWindow("Scrip JX7 Version Public| Bienvenido - ".. displayName, {
-    main_color = Color3.fromRGB( 34, 139, 34),
+local window = library:AddWindow("CLAN JX7 PUBLIC V2 | Bienvenido - ".. displayName, {
+    main_color = Color3.fromRGB(255, 0, 0),
     min_size = Vector2.new(650, 870),
     can_resize = true,
 })
